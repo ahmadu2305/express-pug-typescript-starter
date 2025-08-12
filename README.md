@@ -1,5 +1,17 @@
 # Express Pug TypeScript Starter
 
+![GitHub last commit](https://img.shields.io/github/last-commit/ahmadu2305/express-pug-typescript-starter)
+![GitHub license](https://img.shields.io/github/license/ahmadu2305/express-pug-typescript-starter)
+![Node.js Version](https://img.shields.io/badge/node-%3E%3D16.0.0-brightgreen)
+![Built with GitHub Copilot](https://img.shields.io/badge/Built%20with-GitHub%20Copilot-blueviolet)
+![CI](https://github.com/ahmadu2305/express-pug-typescript-starter/actions/workflows/node.js.yml/badge.svg)
+![npm](https://img.shields.io/npm/v/express-pug-typescript-starter)
+![GitHub issues](https://img.shields.io/github/issues/ahmadu2305/express-pug-typescript-starter)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/ahmadu2305/express-pug-typescript-starter)
+![GitHub contributors](https://img.shields.io/github/contributors/ahmadu2305/express-pug-typescript-starter)
+![GitHub forks](https://img.shields.io/github/forks/ahmadu2305/express-pug-typescript-starter?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ahmadu2305/express-pug-typescript-starter?style=social)
+
 ## Description
 A starter template for building web applications using Express, Pug, and TypeScript. This project provides a simple structure for rapid development and easy customization.
 
