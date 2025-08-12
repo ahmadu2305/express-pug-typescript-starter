@@ -25,12 +25,31 @@ A starter template for building web applications using Express, Pug, and TypeScr
   npm run build
   ```
 
+
 ## Usage
-- Start the development server:
+
+- To start the development server:
   ```sh
   npm run dev
   ```
+- To start the application in production mode:
+  ```sh
+  npm start
+  ```
 - Open your browser and navigate to `http://localhost:3000`.
+
+## Folder Structure
+
+```
+.
+├── src
+│   ├── app.ts          # Entry point of the application
+│   ├── routes          # Route definitions
+│   └── views           # Pug templates
+├── package.json        # NPM configuration file
+├── tsconfig.json       # TypeScript configuration file
+└── README.md           # Project documentation
+```
 
 ## Features
 - Express server setup with TypeScript
@@ -45,3 +64,9 @@ A starter template for building web applications using Express, Pug, and TypeScr
 
 ## License
 This project is licensed under the MIT License.
+
+---
+
+## Built with GitHub Copilot
+
+#builtwithgithubcopilot is a campaign for participants to share products built with GitHub Copilot, to gain visibility.
